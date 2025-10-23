@@ -1,7 +1,10 @@
     body {
       background: #121212;
       color: #00ff00;
-      font-family: 'Press Start 2P', cursive;
+      font-family: "Chiron Sung HK", serif;
+      font-optical-sizing: auto;
+      font-weight: <weight>;
+      font-style: normal;
       display: flex;
       flex-direction: column;
       align-items: center;
