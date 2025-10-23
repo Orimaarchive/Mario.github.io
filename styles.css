@@ -1,0 +1,22 @@
+body {
+  background-color: #000;
+  color: #00ff9f;
+  font-family: 'Press Start 2P', cursive;
+  text-align: center;
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+button {
+  background-color: #222;
+  color: #00ff9f;
+  border: 2px solid #00ff9f;
+  padding: 10px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #00ff9f;
+  color: #000;
+}
