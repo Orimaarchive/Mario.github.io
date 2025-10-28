@@ -6,7 +6,7 @@
 		margin: 0;
 		color: white;
         position: absolute;
-		background-image: url("04TestCSS/05testCSS/fondo web.png");
+		background-image: url("fondo web.png");
         background-size: cover;
 	}
 
