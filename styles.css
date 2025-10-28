@@ -1,15 +1,93 @@
-    body {
-      background: #121212;
-      color: #00ff00;
-      font-family: "Chiron Sung HK", serif;
-      font-optical-sizing: auto;
-      font-weight: <weight>;
-      font-style: normal;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      height: 100vh;
-      margin: 0;
-      text-align: center;
-    }
+	 body {
+		font-family: 'A-OTF Shin Go Pro';
+		padding-top: 0; 
+		margin: 0;
+		color: white;
+        position: absolute;
+		background-image: url("04TestCSS/05testCSS/fondo web.png");
+        background-size: cover;
+	}
+
+		@media screen and (max-width: 1920px) {
+
+		.extra_bottom {
+			margin-bottom: 500px;
+		}
+
+		.extra_top {
+			margin-top: 500px; 
+		}
+
+		.Energético {
+     		width: 10%;
+    		height: auto;
+    	}
+
+    	.Oscuro {
+        	width: 7%;
+        	height: auto;
+    	}
+
+    	.Orima {
+        	width: 14.5%;
+        	height: auto;
+        	}
+
+        .Zeiren {
+        	width: 12.5%;
+        	height: auto;
+    	}
+
+    	.Zenus {
+        	width: 10%;
+        	height: auto;
+    	}
+
+    	.Celia {
+        	width: 9%;
+        	height: auto;
+    	}
+
+    	.Oscurtico {
+        	width: 7.75%;
+        	height: auto;
+    	}
+
+		}
+
+		@media screen and (max-width: 768px) {
+
+		.Energético {
+     		width: 6%;
+    		height: auto;
+    	}
+
+    	.Oscuro {
+        	width: 5%;
+        	height: auto;
+    	}
+
+    	.Orima {
+        	width: 12.5%;
+        	height: auto;
+        	}
+
+        .Zeiren {
+        	width: 10.5%;
+        	height: auto;
+    	}
+
+    	.Zenus {
+        	width: 8%;
+        	height: auto;
+    	}
+
+    	.Celia {
+        	width: 7%;
+        	height: auto;
+    	}
+
+    	.Oscurtico {
+        	width: 5.75%;
+        	height: auto;
+    	}
