@@ -44,6 +44,8 @@ video {
     align-items: center;
     width:25%;
     margin:auto;
+    position: relative;
+    z-index: 2;
 }
     
 .section {
