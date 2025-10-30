@@ -36,6 +36,16 @@ video {
     height: 100%;
     object_fit: cover;
 
+.menu {
+    padding-top: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width:25%;
+    margin:auto;
+}
+    
 .section {
     padding: 20px;
     margin: 20px 0;
