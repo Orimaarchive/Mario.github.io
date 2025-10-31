@@ -22,6 +22,10 @@ h2 {
     margin: 10px 0;
 }
 
+.Sobre_mi {
+    background-image: url("MCM.portfolio/MCM._portfolio_Sobre_mí.png");
+}    
+
 .Sobre_mi:hover img{
     background: url("../../MCM.portfolio_Sobre_mí_hover.png");
 }    
