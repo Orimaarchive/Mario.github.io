@@ -51,10 +51,6 @@ h2 {
     overflow: hidden;
 }
 
-img:hover {
-    display: none;
-}    
-
 .menu {
     padding-top: 350px;
     display: flex;
