@@ -22,31 +22,28 @@ h2 {
 }
 
 .Sobre_mi:hover img {
-    background: url("../../../MCM.portfolio_Sobre_mí_hover.png");
+    background: url("../../../MCM.portfolio_Sobre_mí_hover.png") no-repeat;
     -moz-box-sizing: border-box;
     box-sizing: boreder-box;
-    z-index: 3;
+
 }    
 
 .Proyecto_de_videojuegos:hover img {
-    background: url("../../../MCM.portfolio_Proyecto_de_videojuegos_hover.png");
+    background: url("../../../MCM.portfolio_Proyecto_de_videojuegos_hover.png") no-repeat;
     -moz-box-sizing: border-box;
     box-sizing: boreder-box;
-    z-index: 3;
 }    
 
 .Personajes_Arte_Código_Destacado:hover img {
-    background: url("../../../MCM.portfolio_Personajes_Arte_Código_Destacado_hover.png");
+    background: url("../../../MCM.portfolio_Personajes_Arte_Código_Destacado_hover.png") no-repeat;
     -moz-box-sizing: border-box;
     box-sizing: boreder-box;
-    z-index: 3;
 }    
 
 .Contacto_y_Enlaces:hover img {
-    background: url("../../../MCM.portfolio_Contacto_y_Enlaces_hover.png");
+    background: url("../../../MCM.portfolio_Contacto_y_Enlaces_hover.png") no-repeat;
     -moz-box-sizing: border-box;
     box-sizing: boreder-box;
-    z-index: 3;
 }    
 
 .container {
