@@ -22,7 +22,7 @@ h2 {
     margin: 10px 0;
 }
 
-.Sobre_mi a:hover {
+.Sobre_mi:hover {
     background-image: url("../../MCM.portfolio_Sobre_mí_hover.png");
 }    
 
