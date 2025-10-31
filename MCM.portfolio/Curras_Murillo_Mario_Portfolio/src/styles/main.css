@@ -37,26 +37,26 @@ h2 {
     background: url("../../../MCM.portfolio_Contacto_y_Enlaces.png")
 }
 
-.Sobre_mi:hover img {
+.Sobre_mi:hover {
     background: url("../../../MCM.portfolio_Sobre_mí_hover.png") no-repeat;
     -moz-box-sizing: border-box;
     box-sizing: boreder-box;
 
 }    
 
-.Proyecto_de_videojuegos:hover img {
+.Proyecto_de_videojuegos:hover {
     background: url("../../../MCM.portfolio_Proyecto_de_videojuegos_hover.png") no-repeat;
     -moz-box-sizing: border-box;
     box-sizing: boreder-box;
 }    
 
-.Personajes_Arte_Código_Destacado:hover img {
+.Personajes_Arte_Código_Destacado:hover {
     background: url("../../../MCM.portfolio_Personajes_Arte_Código_Destacado_hover.png") no-repeat;
     -moz-box-sizing: border-box;
     box-sizing: boreder-box;
 }    
 
-.Contacto_y_Enlaces:hover img {
+.Contacto_y_Enlaces:hover {
     background: url("../../../MCM.portfolio_Contacto_y_Enlaces_hover.png") no-repeat;
     -moz-box-sizing: border-box;
     box-sizing: boreder-box;
