@@ -64,7 +64,6 @@ h2 {
     width:25%;
     margin:auto;
     position: relative;
-    z-index: 2;
     columns-count: 4;
 }
 
