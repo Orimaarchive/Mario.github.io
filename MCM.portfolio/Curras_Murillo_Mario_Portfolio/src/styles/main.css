@@ -23,18 +23,22 @@ h2 {
 
 .Sobre_mi {
     background: url("../../../MCM.portfolio_Sobre_mí.png")
+    z-index: 2;
 }    
 
 .Poryecto_de_videojuego {
     background: url("../../../MCM.portfolio_Proyecto_de_videojuegos.png")
+    z-index: 2;
 }    
 
 .Personajes_Arte_Código_Destacado {
     background: url("../../../MCM.portfolio_Personajes_Arte_Código_Destacado.png")
+    z-index: 2;
 }    
 
 .Contacto_y_Enlaces {
     background: url("../../../MCM.portfolio_Contacto_y_Enlaces.png")
+    z-index: 2;
 }
 
 .Sobre_mi:hover img {
