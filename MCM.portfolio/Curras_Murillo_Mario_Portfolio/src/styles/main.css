@@ -25,7 +25,6 @@ h2 {
     background: url("../../../MCM.portfolio_Sobre_mí_hover.png");
     -moz-box-sizing: border-box;
     box-sizing: boreder-box;
-    display: none
 }    
 
 .Proyecto_de_videojuegos:hover img {
@@ -51,6 +50,10 @@ h2 {
     margin: auto;
     overflow: hidden;
 }
+
+img:hover {
+    display: none;
+}    
 
 .menu {
     padding-top: 350px;
