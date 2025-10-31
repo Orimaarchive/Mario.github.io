@@ -25,6 +25,18 @@ h2 {
     background: url("../../../MCM.portfolio_Sobre_mí_hover.png");
 }    
 
+.Proyecto_de_videojuegos:hover img {
+    background: url("../../../MCM.portfolio_Proyecto_de_videojuegos_hover.png");
+}    
+
+.Personajes_Arte_Código_Destacado:hover img {
+    background: url("../../../MCM.portfolio_Personajes_Arte_Código_Destacado_hover.png");
+}    
+
+.Contacto_y_Enlaces:hover img {
+    background: url("../../../MCM.portfolio_Contacto_y_Enlaces_hover.png");
+}    
+
 .container {
     width: 80%;
     margin: auto;
