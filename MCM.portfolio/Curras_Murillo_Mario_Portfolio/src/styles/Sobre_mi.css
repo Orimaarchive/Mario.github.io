@@ -17,9 +17,8 @@ body {
 }
 
 div {
-    display: flex;
-    justify-content: left;
-    align-items: center;
+    display: grid;
+    align-items: left;
     height: 50%;
 
 img {
