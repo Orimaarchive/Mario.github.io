@@ -16,7 +16,7 @@ body {
 }
 
 img {
-    display: center;
+    display: block;
     height: 50%;
 }
 
