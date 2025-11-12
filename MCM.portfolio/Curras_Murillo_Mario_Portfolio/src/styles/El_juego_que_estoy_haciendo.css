@@ -19,6 +19,7 @@ body {
 div {
     display: grid;
     justify-content: right;
+    align-items: center;
     height: 30%;
 }
 
