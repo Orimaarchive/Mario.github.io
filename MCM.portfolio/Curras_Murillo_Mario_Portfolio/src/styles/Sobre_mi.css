@@ -16,6 +16,11 @@ body {
     color: #333;
 }
 
+img {
+    display: center;
+    height: 50%;
+}
+    
 .cover-title {
     font-size: 3em;
     margin-bottom: 20px;
