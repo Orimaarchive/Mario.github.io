@@ -15,10 +15,14 @@ body {
     color: #333;
 }
 
+div {
+    display: flex;
+    width: 50%;
+}
+    
 img {
     
-    display: flex;
-    height: auto;
+    
 }
 
 .cover-title {
