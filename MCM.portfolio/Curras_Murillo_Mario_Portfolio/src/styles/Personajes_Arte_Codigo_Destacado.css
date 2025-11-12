@@ -17,7 +17,7 @@ body {
 }
 
 div {
-    display: flex;
+    display: grid;
     align-items: left;
     height: 30%;
 }
