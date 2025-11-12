@@ -22,9 +22,10 @@ div {
     align-items: center;
     height: 30%;
 }
-    
+
 img {
     width: 50%;
+    position: fixed;
 }
 
 .cover-title {
