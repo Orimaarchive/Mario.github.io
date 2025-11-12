@@ -18,8 +18,8 @@ body {
 
 div {
     display: grid;
-    justify-content: center;
-    align-items: left;
+    justify-content: left;
+    align-items: center;
     height: 30%;
 }
     
