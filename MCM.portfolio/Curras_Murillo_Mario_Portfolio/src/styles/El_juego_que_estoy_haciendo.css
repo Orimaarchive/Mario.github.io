@@ -18,8 +18,7 @@ body {
 
 div {
     display: grid;
-    justify-content: right;
-    align-items: center;
+    align-items: right;
     height: 30%;
 }
 
