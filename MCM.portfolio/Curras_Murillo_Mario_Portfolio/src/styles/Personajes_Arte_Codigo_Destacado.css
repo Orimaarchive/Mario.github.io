@@ -25,7 +25,7 @@ div {
 img {
     width: 50%;
     position: fixed;
-    top: 1080px;
+    bottom: 1080px;
 }
 
 .cover-title {
