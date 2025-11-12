@@ -18,7 +18,7 @@ body {
 
 div {
     display: grid;
-    align-items: left;
+    align-items: right;
     height: 30%;
 }
     
