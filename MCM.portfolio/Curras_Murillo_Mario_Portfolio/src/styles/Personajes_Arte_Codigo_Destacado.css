@@ -16,6 +16,10 @@ body {
     color: #333;
 }
 
+.c {
+    text-align: center;
+}    
+
 div {
     display: grid;
     align-items: left;
