@@ -16,6 +16,10 @@ body {
     color: #333;
 }
 
+h1 {
+    padding-top: 50px;   
+}
+    
 .c {
     text-align: center;
 }    
