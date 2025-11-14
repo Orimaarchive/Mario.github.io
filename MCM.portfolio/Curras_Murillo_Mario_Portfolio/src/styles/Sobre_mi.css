@@ -17,9 +17,7 @@ body {
 }
 
 .c {
-    position: fixed; 
-    top: 50px;
-    left: 960px;
+    text-align: center;
 }    
 
 div {
