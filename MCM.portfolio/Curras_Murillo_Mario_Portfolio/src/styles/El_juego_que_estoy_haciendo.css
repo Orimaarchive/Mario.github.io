@@ -21,7 +21,7 @@ body {
 }    
 
 div {
-    display: grid;
+    display: flex;
     align-items: right;
     height: 30%;
 }
