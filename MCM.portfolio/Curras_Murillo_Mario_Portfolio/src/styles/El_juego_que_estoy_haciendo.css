@@ -22,7 +22,6 @@ body {
 
 div {
     display: flex;
-    align-items: right;
     height: 30%;
 }
 
