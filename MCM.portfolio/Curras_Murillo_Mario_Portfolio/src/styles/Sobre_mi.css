@@ -17,6 +17,7 @@ body {
 }
 
 .c {
+    position: fixed; 
     text-align: center;
     top: 100px;
 }    
